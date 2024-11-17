@@ -1,7 +1,7 @@
 Dsa 7 Graph: Minimum Spanning Tree 
-Name:- Jyoti Rajesh Makwan 
+Name:- yash girgune
 Sub :- dsa 
-Name:- Jyoti Rajesh Makwan
+
 Assingment no :-7
 
 
